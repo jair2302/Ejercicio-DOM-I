@@ -1,0 +1,29 @@
+<!DOCTYPE html >
+	<html  lang = " es " >
+	<cabeza >
+	    <meta  charset = " UTF-8 " >
+	    <meta  http-equiv = " X-UA-Compatible " content = " IE = edge " >
+	    <meta  name = " viewport " content = " width = device-width, initial-scale = 1.0 " >
+	    <link  rel = " stylesheet " href = " estilos.css " >
+	    <link  href = " https://fonts.googleapis.com/css2?family=Indie+Flower&family=Palette+Mosaic&display=swap " rel = " stylesheet " >
+	    <link  rel = " shortcut icon " href = " Img / luna icon.ico " type = " icono " >
+	    <título > Reproductor de Música </título >
+	</cabeza >
+	<cuerpo >
+	    <div  class = " contenedor-principal " >
+	        <div  class = " cover " >
+	            <img  id = " portada " src = " Img / Portada.jpg " alt = " portada " >
+	
+
+	        </div >
+	        <div  class = " controles " >
+	            <button  id = " play-btn " > Reproducir </button >
+	            <button  id = " pause-btn " > Pausar </button >
+	        </div >
+	    </div >
+	
+
+	    <audio  id = " cancion " src = " Audio / 01.mp3 " > </audio >
+	    <script  src = " Js / script.js " > </script >
+	</cuerpo >
+	</html >
