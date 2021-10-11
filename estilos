@@ -1,0 +1,73 @@
+cuerpo {
+    margen :  0 px ;
+    relleno :  0 px ; 
+    alinear-elementos : centro;
+}
+
+
+.contenedor-principal {
+    ancho :  100 % ;
+    altura :  100 vh ;
+    pantalla : flex;
+    justificar-contenido : centro;
+    alinear-elementos : centro;
+}
+
+
+. controles {
+    ancho :  50%;
+    acolchado :  15 em ; 
+    color de fondo :  red:
+    animación-nombre : cambiarColor;
+    radio de borde :  15 % ;
+    dirección de animación : normal     
+}
+botón {
+    pantalla : bloque en línea; 
+    ancho :  100 px ;
+    altura :  40 px ;
+    margen : automático;
+    izquierda : 40 % ;
+    derecha :  30 ch ;
+    tapa : 45 cm ;
+    fondo :  0 cm ;
+}
+
+
+
+
+button : hover {
+    esquema : ninguno;
+    color de fondo :  # 548b58 ;
+    color :  # fff ;
+}
+
+
+
+. cover {
+    ancho :  10 rem ;
+    altura :  10 rem ;
+    radio de borde :  50 % ;
+    posición : absoluta;
+    margen : automático;
+    izquierda : 0 % ;
+    derecha :  0 ch ;
+    superior : -8 cm ;
+    fondo :  0 cm ;
+}
+
+
+. cover  img {
+    ancho :  100 % ;
+    altura :  100 % ;
+    
+    objeto de ajuste : cubierta;
+
+
+    animación-nombre : girar;
+    dirección de animación : normal;
+    recuento de iteraciones de animación : infinito;
+    función de temporización de animación : lineal;
+    estado de reproducción de animación : en pausa;
+    duración de la animación :  5 s;
+}
