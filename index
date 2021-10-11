@@ -5,8 +5,6 @@
 	    <meta  http-equiv = " X-UA-Compatible " content = " IE = edge " >
 	    <meta  name = " viewport " content = " width = device-width, initial-scale = 1.0 " >
 	    <link  rel = " stylesheet " href = " estilos.css " >
-	    <link  href = " https://fonts.googleapis.com/css2?family=Indie+Flower&family=Palette+Mosaic&display=swap " rel = " stylesheet " >
-	    <link  rel = " shortcut icon " href = " Img / luna icon.ico " type = " icono " >
 	    <título > Reproductor de Música </título >
 	</cabeza >
 	<cuerpo >
